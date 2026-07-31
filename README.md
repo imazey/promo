@@ -5,4 +5,4 @@ Ian Mazey, also known simply as 'Mazey' to audiences, is a high-energy vocalist 
 ![](/images/album.jpg)
 
 ## Links & Socials
-[Instagram](https://www.instagram.com/ian_mazey/) | [Spotify](https://open.spotify.com/artist/2Z7DgSk01S0rdHUAiADsYK?si=cv3JksW_RGSR55cGkcs7Jg)
+[Instagram](https://www.instagram.com/ian_mazey/) | [Spotify](https://open.spotify.com/artist/2Z7DgSk01S0rdHUAiADsYK?si=cv3JksW_RGSR55cGkcs7Jg) | [YouTube](https://www.youtube.com/@mazeymusic)
