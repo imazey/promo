@@ -4,4 +4,4 @@ plugins:
 title: Ian Mazey
 description: R&B singer-songwriter, Detroit MI
 logo: /images/headshot.jpg
-show_downloads: true
+show_downloads: false
