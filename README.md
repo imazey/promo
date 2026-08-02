@@ -2,7 +2,7 @@
 ---
 Ian Mazey, also known simply as 'Mazey' to audiences, is a high-energy vocalist and entertainer with more than ten years of experience. Having performed all over the world, Mazey's voice has been described by audiences as possessing the range of Freddie Mercury mixed with the sultry tone of Luther Vandross. His performances, mixed with his vocal prowess, has earned him the nickname 'Boyoncé' by audiences.
 
-[Resume](https://github.com/imazey/promo/blob/main/resources/resume.pdf) [Showreel](https://www.youtube.com/watch?v=dmtEau2XOto)
+[Resume](https://github.com/imazey/promo/blob/main/resources/resume.pdf) | [Showreel](https://www.youtube.com/watch?v=dmtEau2XOto)
 
 ## Wherever I Go, Tropical Follows
 ---
