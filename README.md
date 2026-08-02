@@ -5,9 +5,8 @@ Ian Mazey, also known simply as 'Mazey' to audiences, is a high-energy vocalist 
 [Resume](https://github.com/imazey/promo/blob/main/resources/resume.pdf) & [Showreel](https://www.youtube.com/watch?v=dmtEau2XOto)
 
 ## Wherever I Go, Tropical Follows
----
 ![](/images/album.jpg)
 
-## Links & Socials
 ---
+## Links & Socials
 [Instagram](https://www.instagram.com/ian_mazey/) | [Spotify](https://open.spotify.com/artist/2Z7DgSk01S0rdHUAiADsYK?si=cv3JksW_RGSR55cGkcs7Jg) | [YouTube](https://www.youtube.com/@mazeymusic)
