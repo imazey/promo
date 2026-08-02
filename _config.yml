@@ -4,4 +4,4 @@ plugins:
 title: Ian Mazey
 description: imazey@alumni.berklee.edu
 logo: /images/headshot.jpg
-show_downloads: false
+show_downloads: true
